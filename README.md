@@ -1,24 +1,6 @@
-# README
+# Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I am a system manager working at Chibest Managements.
+I am an aspiring programmer.
+I have learnt and worked with some programming languages and now want to concentrate on Ruby on Rails.
+This is a friend Social media app
