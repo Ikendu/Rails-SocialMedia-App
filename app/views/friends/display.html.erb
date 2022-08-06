@@ -32,8 +32,18 @@
 
 <% else %>
 
-<h1>Home#index</h1>
-<p>Find me in app/views/home/index.html.erb</p>
+<br>
+<div class="jumbotron p-10">
+  <h1 class="display-4">XploreLife Friends</h1>
+  <p class="lead">The world is continually getting more like a village square where family, friends and associates comes together to discuss, gist, play around and have fun</p>
+  <hr class="my-4">
+  <p>Stay connected with family and friends all the time</p>
+
+  <%= link_to 'Sign In and have fun', new_user_session_path, class:"btn btn-primary btn-lg" %>
+  <br><br>
+  <p>New to XploreLife?</p>
+  <%= link_to 'Sign Up', new_user_registration_path, class: "btn btn-success " %>
+</div>
 
 <% end %>
 
